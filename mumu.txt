@@ -5,8 +5,9 @@
 ||ios-pclog.i4.cn
 ||tsssaver.1conan.com
 ||humb.apple.com
-||cash-f.squarecdn.com
 ||apple.com
+||cash-f.squarecdn.com
+||cash.me
 ||cart-scraper.fillr.com
 ||api.fillr.com
 ||widget.fillr.com
@@ -45,3 +46,4 @@
 ||arccontrol.intel.com
 ||translate.googleapis.com
 ||content-autofill.googleapis.com
+@@||cash-f.squarecdn.com
