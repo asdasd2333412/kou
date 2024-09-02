@@ -7,7 +7,6 @@
 ||humb.apple.com^
 ||cash-f.squarecdn.com^
 ||apple.com^
-||cash.me^
 ||cart-scraper.fillr.com^
 ||api.fillr.com^
 ||widget.fillr.com^
