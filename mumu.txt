@@ -28,7 +28,6 @@
 ||token.safebrowsing.apple
 ||squareup.map.fastly.net
 ||cash-images-f.squarecdn.com
-||auth.amggo.site
 ||cdnjs.cloudflare.com
 ||update.greasyfork.org
 ||mask.icloud.com
@@ -46,4 +45,4 @@
 ||arccontrol.intel.com
 ||translate.googleapis.com
 ||content-autofill.googleapis.com
-@@||cash-f.squarecdn.com
+||cash-f.squarecdn.com
