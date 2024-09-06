@@ -1,3 +1,55 @@
+[Adblock Plus 2.0]
+! Checksum: vXO2skD37egAcrKzRVhe1A
+! Version: 202302242205
+! Title: ChinaList+EasyList(修正)
+! ChinaList and EasyList combination subscription
+! Last modified: 03 Feb 2014 03:50 UTC
+! Expires: 4 days (update frequency)
+! Homepage: http://www.adtchrome.com/extension/adt-chinalist-easylist.html
+!
+! *** Fetched from: https://raw.github.com/chinalist/chinalist/master/adblock.txt ***
+!  Adblock Plus List with Main Focus on Chinese Sites.
+!  Last Modified:  Mon, 03 Mar 2014 21:55:44 +0800
+!
+!----GNU LGPL Licensed, NO WARRANTY but Best Wishes----
+!----------------------------视频网站----------------------------
+!efwef
+!---搜狐视频
+/^http:\/\/v\.aty\.sohu\.com\/v\?cat=.*fee=0/>>>http://v.aty.sohu.com/v?cat=&act=&autoPlay=1&fee=1>>>>keyword=sohu
+!---优酷
+!/^http:\/\/static\.youku\.com(\/v[\d\.]*)?\/v\/swf\/(q?player[^\.]*|\w{13})\.swf/>>>http://yk.522.com.cn/player.swf>>>>keyword=youku
+!/^http:\/\/static\.youku\.com(\/v[\d\.]*)?\/v\/swf\/upsplayer\/(q?player[^\.]*|\w{13})\.swf/>>>http://yk.522.com.cn/player.swf>>>>keyword=youku
+!/yk\.522\.com\.cn\/danmu\.swf/>>>static.youku.com/v201706061000.0/v/swf/upsplayer/danmu.swf>>>>keyword=danmu
+!/g\.alicdn\.com\/player\/ykplayer\/0\.6\.[0-9]+\/youku-player\.min\.js/>>>g.alicdn.com/player/ykplayer/0.5.90/youku-player.min.js>>>>keyword=youku
+!/g\.alicdn\.com\/mm\/yksdk\/0\.2\.\d+\/playersdk\.js/>>>1111.51xiaolu.com/playersdk.js>>>>keyword=playersdk
+@@|https://vku.youku.com/
+||hz.youku.com/red/
+||l.youku.com/*&t=ad_
+||l.youku.com/*log?
+||l.youku.com/rec_ad_show?
+||lstat.youku.com/log.
+||static.youku.com/*/index/js/iresearch.js
+||static.youku.com/*/js/cps.js
+||vip.com/cm/youku?
+||youku.com/compvlog?
+||youku.com/recikupushshow?
+||youku.com/ykvvlog?
+||youku.com/yplaylog?
+||youku.com/ypvlog?
+||youku.com^*/click.php?
+|http://html.atm.youku.com/html?p=
+|http://hz.youku.com/red/ggnotice.php?
+|http://nc.youku.com/user/~ajax/qrcodeLogin.html?
+|http://passport.youku.com/index_loginregGuide/$subdocument
+|http://passport-log.youku.com/logsys/logstorage/
+|http://static.youku.com/*/js/cps.js
+|http://static.youku.com/v*/index/js/ikuAdapterNew.js
+|http://static.youku.com/v*/index/js/iresearch.js
+|http://static.youku.com/v*/index/js/tdstat.js
+|http://static.youku.com/v1.*/index/js/ikuAdapterNew.js
+|http://yk.pp.navi.youku.com/playpolicy/get.json?
+||irs01.net/
+##div.h5-ext-layer
 ||apac-china-courier-4.push-apple.com.akadns.net^
 ||33-courier.push.apple.com^
 ||gateway.icloud.com^
